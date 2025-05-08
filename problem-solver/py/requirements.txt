@@ -16,3 +16,7 @@ sentence-transformers
 fastapi
 uvicorn
 ollama
+nltk
+evaluate
+bert-score
+sacrebleu
